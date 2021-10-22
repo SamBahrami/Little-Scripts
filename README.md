@@ -9,4 +9,4 @@ Proving the number of packs required to open using a monte carlo method for the 
 
 ## uncertainty_histograms.py
 Lets you graph out the distribution of the predicted scores from a neural net, and compare the ones that were correctly classified against those that were incorrectly classified. Generates something like below
-![uncertainty histogram]("pics/uncertainty_histogram.png")
+![uncertainty histogram](pics/uncertainty_histogram.png)
