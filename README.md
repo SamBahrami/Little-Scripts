@@ -6,3 +6,7 @@ Picks a random problem from the popular [blind 75 list](https://leetcode.com/dis
 
 ## coupon_collector.py
 Proving the number of packs required to open using a monte carlo method for the [coupon collector problem](https://en.wikipedia.org/wiki/Coupon_collector%27s_problem)
+
+## uncertainty_histograms.py
+Lets you graph out the distribution of the predicted scores from a neural net, and compare the ones that were correctly classified against those that were incorrectly classified. Generates something like below
+![uncertainty histogram]("pics/uncertainty_histogram.png")
